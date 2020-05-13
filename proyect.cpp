@@ -104,6 +104,7 @@ int main(){
         
     }
 
+    cout<<"M matrix:"<<endl;
     for (int i = 0; i < nfils; i++)
     {
         for (int j = 0; j < ncols; j++)
