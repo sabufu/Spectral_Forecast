@@ -1,4 +1,4 @@
-# my-proyect
+# Spectral_Forecast
 SAMUEL BURGUEÑO FUENTES
 
 En este proyecto he hecho una implementación de la ecuación principal del "spectral forecast" proporcionada por el profesor Paul A. Gagniuc en c++ para un modelo de predicción de uso general como alternativa a las redes neuronales clásicas.
